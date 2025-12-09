@@ -1,6 +1,6 @@
-#Huawei Hack
+# Huawei Hack
 
-##English
+## English
 Huawei Hack is a JavaScript code that monitors, records, and analyzes the main radio signal parameters of the LTE (4G) and NR (5G) networks received by the modem.
 With Huawei Hack, you can improve your modem's radio signal reception and thus improve performance simply and effectively.
 Huawei Hack allows you to determine which channels (or bands) are available in the surrounding area and helps you identify the best position for the modem to receive them, as well as the best position, orientation, and placement of any external antennas.
@@ -16,7 +16,7 @@ Base code v5.0 by miononno.it - Advanced v1.0 by Riccardo Fanelli.
 
 ---
 
-##Italiano
+## Italiano
 Huawei Hack è uno codice JavaScript che monitora, registra e analizza i principali parametri del segnale radio delle reti LTE(4G) e NR(5G) captate dal modem.
 Con Huawei Hack è possibile migliorare la ricezione del segnale radio del modem ed quindi migliorare le prestazioni in modo semplice ed efficace.
 Huawei Hack permette di conoscere quali sono i canali (o bande) disponibili nella zona circostante e aiuta a individuare qual'è la miglior posizione del modem per captarli o la miglior posizione, orientamento e disposizione delle eventuali antenne esterne.
