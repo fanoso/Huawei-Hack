@@ -1,42 +1,3 @@
-#Huawei Hack
-
-##English
-Huawei Hack is a JavaScript code that monitors, records, and analyzes the main radio signal parameters of the LTE (4G) and NR (5G) networks received by the modem.
-With Huawei Hack, you can improve your modem's radio signal reception and thus improve performance simply and effectively.
-Huawei Hack allows you to determine which channels (or bands) are available in the surrounding area and helps you identify the best position for the modem to receive them, as well as the best position, orientation, and placement of any external antennas.
-
-### Instructions to install and launch Huawei Hack
-1. Create/add a new Browser Favorites/Bookmarks and name it Hack;
-2. Select all Hack JavaScript code, copy and paste it into the Bookmark URL box and save;
-3. From Browser URL box open the router's address http://192.168.8.1 and log in;
-4. On this open Browser page load Hack from Bookmarks.
-
-Huawei Hack was tested on a Huawei B818 4G router, Firefox, Edge, Chrome browsers.
-Base code v5.0 by miononno.it - Advanced v1.0 by Riccardo Fanelli.
-
----
-
-##Italiano
-Huawei Hack è uno codice JavaScript che monitora, registra e analizza i principali parametri del segnale radio delle reti LTE(4G) e NR(5G) captate dal modem.
-Con Huawei Hack è possibile migliorare la ricezione del segnale radio del modem ed quindi migliorare le prestazioni in modo semplice ed efficace.
-Huawei Hack permette di conoscere quali sono i canali (o bande) disponibili nella zona circostante e aiuta a individuare qual'è la miglior posizione del modem per captarli o la miglior posizione, orientamento e disposizione delle eventuali antenne esterne.
-
-### Istruzioni per installare e avviare Huawei Hack
-1. Creare/aggiungere un nuovo Segnalibro/Preferito al Browser e nominarlo Hack;
-2. Selezionare tutto il codice JavaScript Hack, copiarlo e incollarlo nel riquadro URL del Segnalibro e salvarlo;
-3. Dall'URL del Browser aprire l'indirizzo http://192.168.8.1 del router e accedere;
-4. In questa pagina aperta del Browser caricare Hack dai Segnalibri.
-
-Huawei Hack è stato testato su un router Huawei B818 4G, browser Firefox, Edge, Chrome.
-Codice base v5.0 di miononno.it, evoluzione v1.0 di Riccardo Fanelli.
-
----
-
-![screen image](screenshot1.jpg)
-
-![screen image](screenshot1.jpg)
-
-```javascript
 javascript:ftb();
 function ha(i,h)
 {
@@ -855,4 +816,3 @@ var neighbor_cell={/*
 },nei,neisto;
 status="",netmode="",signal="",antennatype="",start(),currentData(),interval=window.setInterval(currentData,itime);
 ha("t","Che la banda sia con te! by Miononno &#9829; & Riccardo Fanelli"),divt=document.getElementById("t").style;divt.display="block",setTimeout(()=>{divt.display="none"},4000);console.log("Huawei Hack 4G/5G - Base code v5.0 by miononno.it - Advanced v1.0 by Riccardo Fanelli"),console.log("type: netmode, signal, status, antennatype");
-```
