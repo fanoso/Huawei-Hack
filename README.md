@@ -28,13 +28,13 @@ Huawei Hack permette di conoscere quali sono i canali (o bande) disponibili nell
 4. In questa pagina aperta del Browser caricare Hack dai Segnalibri.
 
 Huawei Hack è stato testato su un router Huawei B818 4G, browser Firefox, Edge, Chrome.
-Codice base v5.0 di miononno.it, evoluzione v1.0 di Riccardo Fanelli.
+Codice base v5.0 di miononno.it - evoluzione v1.0 di Riccardo Fanelli.
 
 ---
 
 ![screen image](screenshot1.jpg)
 
-![screen image](screenshot1.jpg)
+![screen image](screenshot2.jpg)
 
 ```javascript
 javascript:ftb();
